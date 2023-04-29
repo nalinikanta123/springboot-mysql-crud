@@ -3,4 +3,4 @@ Ths scope of this project is to configure mysql database and perfom CRUD operati
 
 If you need any assistance, please visit https://enhance-skillful-dreamland.w3spaces.com/ and connect with me.
 
-The next application springboot-mysql-crud-exceptions will be built on top of this project to handle exceptions.
+The next application springboot-blog-rest-api will cover the exception handling.
